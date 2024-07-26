@@ -47,9 +47,6 @@ ParKing provides:
 - **Pick up:** Streamlined retrieval and payment process with real-time availability updates.
 
   
-## Backend Documentation
-
-### SQL Schema:
 
 ## API Routes:
 
