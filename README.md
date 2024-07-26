@@ -42,13 +42,21 @@ ParKing provides:
 - **Reserve Parking:** Easy reservation process with transparency.
 - **QR Code Generation:** Paperless solution for check-in and check-out.
   
-  ![RPReplay_Final1695411599](https://github.com/Confundus-Constructors/BlueOcean/assets/100256151/cd068d37-acf2-4ecb-95dd-bb35f48a51ce)
+  <!---![RPReplay_Final1695411599](https://github.com/Confundus-Constructors/BlueOcean/assets/100256151/cd068d37-acf2-4ecb-95dd-bb35f48a51ce)--->
 - **Check Car Status:** Convenient signaling and notification system.
 - **Pick up:** Streamlined retrieval and payment process with real-time availability updates.
 
-  
+## UI:
+### User’s Side 
+<img width="1202" alt="User’s Side UI1" src="https://github.com/user-attachments/assets/64bf6b7a-105e-45a5-9cd3-b37d60ee7402">
+<img width="1200" alt="User’s Side UI2" src="https://github.com/user-attachments/assets/00da4cfa-9541-4c4e-b93e-af488a75b841">
 
-## API Routes:
+### Valet’s Side
+<img width="1200" alt="Valet’s Side UI1" src="https://github.com/user-attachments/assets/be7639ab-e876-4b71-9934-55930c05b77f">
+<img width="1200" alt="Valet’s Side UI2" src="https://github.com/user-attachments/assets/196f4039-ad4f-4e99-b6d0-5d00e15a420f">
+
+
+## API Routes
 
 ### Garages
 
